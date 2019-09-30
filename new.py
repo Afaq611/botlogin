@@ -50,8 +50,8 @@ khieMID = khie.getProfile().mid
 #=====================================================================
 #=====================================================================
 loop = asyncio.get_event_loop()
-admin =["u6c69729c1a011e83329ada01f0b9d4ce"]
-myAdmin = ["u6c69729c1a011e83329ada01f0b9d4ce"]
+admin =["uead2aa6489cc261fbeb62f4d86e7594b"]
+myAdmin = ["uead2aa6489cc261fbeb62f4d86e7594b"]
 botStart = time.time()
 msg_dict = {}
 temp_flood = {}
