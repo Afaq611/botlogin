@@ -2,7 +2,7 @@
     "access_key": "0066725464abd96d2cee00863ad9067f",
     "access_token": "ec6a73ed66f5704bf4d071a2174fb736238aaeb6",
     "addContact": {
-        "name": "",
+        "name": Afaq shah"",
         "status": false
     },
     "addImage": {
@@ -27,10 +27,10 @@
     "antijs": false,
     "apiKey": "8e3cf182-807a-4186-9261-a6c8741a9237",
     "autoAdd": true,
-    "autoJoin": false,
+    "autoJoin": true,
     "autoJoinTicket": true,
     "autoLeave": false,
-    "autoLike": false,
+    "autoLike": true,
     "autoRead": true,
     "autoRead1": true,
     "autoReply": false,
@@ -79,7 +79,7 @@
     "mayhem": false,
     "mentionPesan": "Asw lo @!, Ngapain tag\" gw 􀜅􀄃hmm􏿿",
     "messageSticker": {
-        "addName": null,
+        "addName": ♛AғᴀQ❥Sнᴀн♛,
         "addStatus": false,
         "listSticker": {
             "addSticker": {
@@ -155,6 +155,6 @@
     ],
     "userMentioned": {},
     "waktu": 10,
-    "welcomeMessage": false,
+    "welcomeMessage": Welcome ToMy Group,
     "welcomePesan": "Selamat datang di grup {gname} , Semoga betah yah 􀜅􀆚Hare Krishna􏿿"
 }
